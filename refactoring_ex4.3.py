@@ -1,6 +1,8 @@
-# Potremmo generalizzare poligono in modo che riceva un angolo come terzo argomento,
-# ma allora poligono non sarebbe più un nome appropriato! Invece, creiamo una funzione 
-# più generale chiamata polilinea:
+"""
+Potremmo generalizzare poligono in modo che riceva un angolo come terzo argomento,
+ma allora poligono non sarebbe più un nome appropriato! Invece, creiamo una funzione 
+più generale chiamata polilinea:
+"""
 
 import turtle, math
 bob = turtle.Turtle()
