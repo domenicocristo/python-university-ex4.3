@@ -3,8 +3,7 @@
 una tartaruga. La funzione deve usare la tartaruga per disegnare un quadrato.
 Scrivete una chiamata alla funzione quadrato che passi bob come argomento, ed
 eseguite nuovamente il programma.
-"""
-"""
+
 2. Aggiungete a quadrato un nuovo parametro di nome lunghezza. Modificate il corpo 
 in modo che la lunghezza dei lati sia pari a lunghezza, quindi modificate la chiamata 
 alla funzione in modo da fornire un secondo argomento. Eseguite di nuovo il 
